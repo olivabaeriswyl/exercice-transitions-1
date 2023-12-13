@@ -3,7 +3,7 @@
 }
 
 #ex02 .box {
-  transition-property: background;
+  transition-property: background-color;
   transition-duration: 0.5s;
 }
 
@@ -12,7 +12,7 @@
 }
 
 #ex03 .box {
-  transition-property: background;
+  transition-property: background-color;
   transition-duration: 0.5s;
   transition-delay: 0.5s;
 }
@@ -22,7 +22,7 @@
 }
 
 #ex04 .box {
-  transition-property: background color;
+  transition-property: background-color color;
   transition-duration: 0.5s;
 }
 
@@ -32,7 +32,7 @@
 }
 
 #ex05 .box {
-  transition-property: background color;
+  transition-property: background-color color;
   transition-duration: 0.5s;
 }
 
@@ -47,7 +47,7 @@
 }
 
 #ex06 .box {
-  transition-property: background;
+  transition-property: background-color;
   transition-duration: 0.5s;
 }
 
@@ -56,17 +56,17 @@
 }
 
 #ex07 .box:nth-child(1) {
-  transition-property: background;
+  transition-property: background-color;
   transition-duration: 0.2s;
 }
 
 #ex07 .box:nth-child(2) {
-  transition-property: background;
+  transition-property: background-color;
   transition-duration: 0.5s;
 }
 
 #ex07 .box:nth-child(3) {
-  transition-property: background;
+  transition-property: background-color;
   transition-duration: 0.8s;
 }
 
@@ -75,7 +75,7 @@
 }
 
 #ex08 .wrapper {
-  transition-property: background;
+  transition-property: background-color;
   transition-duration: 0.5s;
 }
 
@@ -84,7 +84,7 @@
 }
 
 #ex08 .box {
-  transition-property: background;
+  transition-property: background-color;
   transition-duration: 0.5s;
 }
 
@@ -93,7 +93,7 @@
 }
 
 #ex09 .wrapper {
-  transition-property: background;
+  transition-property: background-color;
   transition-duration: 0.5s;
   transition-delay: 0.2s;
 }
@@ -103,7 +103,7 @@
 }
 
 #ex09 .box {
-  transition-property: background;
+  transition-property: background-color;
   transition-duration: 0.5s;
   transition-delay: 0.5s;
 }
